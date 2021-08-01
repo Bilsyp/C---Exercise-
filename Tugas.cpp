@@ -653,7 +653,7 @@ void name()
 	cout << "" << endl;
 	cout << "               =============================" << endl;
 	cout << "                    Nama: Bilal Syahputra" << endl;
-	cout << "                    Kelas : X TKI 5" << endl;
+	cout << "                    Kelas : XI TKJ-2 " << endl;
 	cout << "               =============================" << endl;
 }
 void Start()
